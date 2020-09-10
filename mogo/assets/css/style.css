@@ -1274,6 +1274,14 @@ hr {
     font-size: 14px;
 }
 
+.footer__link {
+    text-decoration: none;
+}
+
+.footer__link:hover {
+    text-decoration: underline;
+}
+
 /* Subscribe */
 
 .subscribe {
