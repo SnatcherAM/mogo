@@ -260,7 +260,7 @@ hr {
     left: 0;
     z-index: 1;
 
-    transform: transform .2s linear;
+    transition: transform .2s linear;
 }
 
 .nav-toggle__item:before {
